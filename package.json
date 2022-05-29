@@ -1,0 +1,25 @@
+{
+  "name": "inferjs",
+  "version": "0.0.1",
+  "description": "Lightweight probabilistic programming for the web",
+  "main": "inference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanashworth/inferjs.git"
+  },
+  "keywords": [
+    "probabilistic",
+    "programming",
+    "statistical",
+    "modeling"
+  ],
+  "author": "Brendan Ashworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendanashworth/inferjs/issues"
+  },
+  "homepage": "https://github.com/brendanashworth/inferjs#readme"
+}
